@@ -1,4 +1,4 @@
-# otus-linux-day28
+# otus-linux-day29
 ## *iptables*
 
 # **Prerequisite**
